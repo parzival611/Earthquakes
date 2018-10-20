@@ -1,2 +1,3 @@
-# Earthquakes
-This project demonstrates Leaflet.js geo dashboard powered by USGS earthquake data
+# Visualizing USGS Earthquake Data with Leaflet
+
+![dashboard](dashboard.png)
