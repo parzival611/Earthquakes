@@ -1,3 +1,3 @@
 # Visualizing USGS Earthquake Data with Leaflet
 
-![dashboard](dashboard.png)
+![dashboard](dashboard_alert.png)
